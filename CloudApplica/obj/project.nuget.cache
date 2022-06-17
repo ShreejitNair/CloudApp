@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgi2UsUrS7WTI5kNsBzcsIEyiXMbBmHzvF2x/OYonrsca8WOO9Puz+kBIonNLLcdrmE7RREnp505VATsMN850g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\CloudApplica\\CloudApplica\\CloudApplica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
